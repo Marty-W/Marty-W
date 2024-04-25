@@ -12,3 +12,4 @@ Right now I am in the middle of a job search. So a few points about me:
 - if you want to see my work experience, please checkout my [linkedIn](https://www.linkedin.com/in/martin8weber/)
 - bellow are some side projects that may be interesting for you
 - you can reach out to me if you're interested in hiring me over [martin8weber@gmail.com](mailto:martin8weber@gmail.com) or [linkedIn](https://www.linkedin.com/in/martin8weber/)
+- you can download my resume [here](https://rxresu.me/ded4lebed4/martin-weber)
