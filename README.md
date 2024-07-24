@@ -3,6 +3,12 @@
 My name is Martin, welcome to my github profile!
 Odds are you you've ended up here looking for a dev to hire, so please read on.
 
+## Links
+- [portfolio](https://martinweber.dev)
+- [linkedin](https://www.linkedin.com/in/martin8weber/)
+- [martin8weber@gmail.com](mailto:martin8weber@gmail.com)
+- [resume](https://rxresu.me/ded4lebed4/martin-weber)
+
 ## What's going on
  
 Right now I am in the middle of a job search. So a few points about me: 
